@@ -1,0 +1,8 @@
+{
+  "fan_types": [
+    "Ceiling Fan",
+    "Table Fan",
+    "Wall Fan",
+    "Exhaust Fan"
+  ]
+}
